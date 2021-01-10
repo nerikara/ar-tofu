@@ -5,4 +5,10 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes: []
-  m_configObjects: {}
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 2922961899d3c4f73a1b3db683fc1938,
+      type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 9fdf7bacd3f4d4e939414f772ebd8dab,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 6085216973f4247cf99ee969ed931565,
+      type: 2}
